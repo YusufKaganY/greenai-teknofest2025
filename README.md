@@ -40,7 +40,7 @@
 
 - Selenium botu, belirlenen geri dönüşüm sitelerini tarar.
 - Proje başlığı, açıklama, adımlar, malzeme listesi ve görsel URL’si alınır.
-- Görseller proje klasörüne kaydedilir. (`/assets/denemeCrowlera/`)
+- Görseller proje klasörüne kaydedilir. (`/assets/denemeCrowler/`)
 
 ---
 
@@ -106,7 +106,7 @@ flutter run
 ### Automated Data Collection (Python Bot)
 - Selenium bot crawls selected recycling websites.
 - Automatically retrieves: project title, description, steps, material list, and image URL.
-- Images are saved locally in the project directory (`/assets/denemeCrowlera/`).
+- Images are saved locally in the project directory (`/assets/denemeCrowler/`).
 
 ---
 
