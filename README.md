@@ -11,9 +11,9 @@
 
 ---
 ### Takım Hakkında
-> **Takım Adı**: GreenAI
-> **Takım Kaptanı**: Senanur Topal
-> **Takım Üyesi**: Yusuf Kağan Yıldırım
+- **Takım Adı**: GreenAI
+- **Takım Kaptanı**: Senanur Topal
+- **Takım Üyesi**: Yusuf Kağan Yıldırım
 
 
 ## Öne Çıkan Özellikler
